@@ -30,6 +30,7 @@ html, body {
 
 img.logo {
 	position: relative;
+	max-width: 500px;
 	top: 23px;
 	left: 50%;
 	transform: translateX(-50%);	
