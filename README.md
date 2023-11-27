@@ -15,7 +15,8 @@
 ### Getting Started
 
 -   Clone this repo
--   Update logo and thumbnails in `images/website`
+-   Update logo and thumbnail in `images/website`
+-   Update header information with server branding
 -   Make sure the ccbd information matches with your own server
 -   Deploy to Netlify
 
