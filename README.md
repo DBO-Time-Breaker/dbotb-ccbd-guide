@@ -1,12 +1,13 @@
 <p align="center">
   <a href="https://ccbd.dbotimebreaker.com/">
-    <img width="200" alt="CCBD" src="images/website/logo.png">
+    <img width="250" alt="CCBD" src="images/website/logo.png">
   </a>
 </p>
 
 <h1 align="center">DBO Time Breaker CCBD Guide</h1>
 
 <p align="center">
+[![Netlify Status](https://api.netlify.com/api/v1/badges/05e20d1a-41c0-4d25-9761-c30649feab8f/deploy-status)](https://app.netlify.com/sites/dbotb-ccbd-guide/deploys)
 </p>
 
 ## Installation
